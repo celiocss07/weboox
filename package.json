@@ -1,0 +1,16 @@
+{
+  "name": "stark_node",
+  "version": "1.0.0",
+  "description": "API em node, usando express para tercerização do envio de dados para a starkbank",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor da Silva Soares",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "starkbank": "^2.5.2"
+  }
+}
